@@ -4889,8 +4889,8 @@ img {
   margin: 0;
   border: 15px solid transparent;
   z-index: 9999;
-  -webkit-transition: all .6s ease-out;
-  transition: all .6s ease-out;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
 }
 
 .cc-profile-image a:hover img {
