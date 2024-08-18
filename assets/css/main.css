@@ -1387,7 +1387,7 @@ h3, .h3 {
 h4, .h4 {
   font-size: 1.714em;
   line-height: 1.45em;
-  margin-top: 30px;
+  margin-top: -60px;
   margin-bottom: 15px;
 }
 
@@ -3233,7 +3233,8 @@ img {
 }
 
 .section {
-  padding: 70px 0;
+  padding-top: 70px;
+  padding-bottom: 0;
   position: relative;
   background: white;
 }
@@ -3265,8 +3266,8 @@ img {
 }
 
 .card-img-top{
-  height: 200px;
-  width:200px; 
+  height: 300px;
+  width:240px; 
 }
 
 .page-header .page-header-image {
